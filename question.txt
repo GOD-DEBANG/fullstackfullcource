@@ -1,0 +1,6 @@
+1. print Even number from an array
+2. Print factorial number
+3. Print multiplication table 
+4. Sum of all numbers
+5. Find the largest number 
+6. Find leap year
